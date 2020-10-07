@@ -2,3 +2,4 @@
 
 
 
+2 candidates with the most votes from each party will be selected
