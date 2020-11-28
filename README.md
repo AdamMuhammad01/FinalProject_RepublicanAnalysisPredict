@@ -1,7 +1,7 @@
 # Final Project: US Election Candidate Analysis & Predict
 
 
-United States presidential election is very interesting to observe because it can can have global impact, from an economic aspect, security issues, geopolitics and others.
+United States presidential election is very interesting to observe because it can have global impact. economic aspect, security issues, geopolitics and others.
 
 
 
